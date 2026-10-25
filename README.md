@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
-  <img src="hero.svg" alt="Rayan Aldossary, Network and Infrastructure, CCNA, Dammam, Saudi Arabia" width="100%">
+  <img src="hero.svg" alt="Rayan Aldossary, Network and Security, CCNA, Dammam, Saudi Arabia" width="100%">
 </picture>
 
-<img src="about.svg" alt="Console: show version and show interfaces status, listing focus areas and skills as connected ports" width="100%">
+<img src="about.svg" alt="Console: show version and show interfaces status, listing networking and security skills as connected ports" width="100%">
 
 ### Lab in numbers
 
@@ -21,6 +21,7 @@
   <img alt="OPNsense" src="https://img.shields.io/badge/OPNsense-111317?style=for-the-badge&logo=opnsense&logoColor=D94F00">
   <img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox%20VE-111317?style=for-the-badge&logo=proxmox&logoColor=E57000">
   <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-111317?style=for-the-badge&logo=windows&logoColor=0078D4">
+  <img alt="Suricata" src="https://img.shields.io/badge/Suricata%20IDS-111317?style=for-the-badge&logo=suricata&logoColor=EF6C00">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111317?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-111317?style=for-the-badge&logo=ubuntu&logoColor=E95420">
   <img alt="UniFi" src="https://img.shields.io/badge/UniFi-111317?style=for-the-badge&logo=ubiquiti&logoColor=006FFF">
@@ -33,6 +34,11 @@
 
 ```text
 hostname Rayan-Aldossary
+!
+service password-encryption
+no ip http server
+ip ssh version 2
+login block-for 120 attempts 3 within 60
 !
 snmp-server location Dammam, Saudi Arabia
 snmp-server contact linkedin.com/in/rayanaldossary
@@ -48,6 +54,7 @@ interface Port-channel1
  description Home-DataCenter, 2x10G LACP
 !
 banner motd ^
+ Authorized access only.
  Built, broken, fixed, documented.
 ^
 !
