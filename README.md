@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
-  <img src="hero.svg" alt="Rayan Aldossary, Network and Cybersecurity, CCNA, Saudi Arabia" width="100%">
+  <img src="hero.svg" alt="Rayan Aldossary, Network and Cybersecurity, CCNA, Dammam, Saudi Arabia" width="100%">
 </picture>
 
 <img src="about.svg" alt="Console: show version and show interfaces status, listing networking and security skills as connected ports, including SIEM with Wazuh and Splunk" width="100%">
@@ -25,6 +25,7 @@
   <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-111317?style=for-the-badge&logo=wazuh&logoColor=3595F9">
   <img alt="Splunk" src="https://img.shields.io/badge/Splunk-111317?style=for-the-badge&logo=splunk&logoColor=65A637">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111317?style=for-the-badge&logo=docker&logoColor=2496ED">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-111317?style=for-the-badge&logo=ansible&logoColor=EE0000">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-111317?style=for-the-badge&logo=ubuntu&logoColor=E95420">
   <img alt="UniFi" src="https://img.shields.io/badge/UniFi-111317?style=for-the-badge&logo=ubiquiti&logoColor=006FFF">
   <img alt="Python" src="https://img.shields.io/badge/Python-111317?style=for-the-badge&logo=python&logoColor=FFD43B">
@@ -45,7 +46,7 @@ login block-for 120 attempts 3 within 60
 logging trap informational
 logging host wazuh.swagger.lab
 !
-snmp-server location Saudi Arabia
+snmp-server location Dammam, Saudi Arabia
 snmp-server contact linkedin.com/in/rayanaldossary
 !
 vlan 10
