@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
-  <img src="hero.svg" alt="Rayan Aldossary, Network and Cybersecurity, CCNA, Dammam, Saudi Arabia" width="100%">
+  <img src="hero.svg" alt="Rayan Aldossary, Network and Cybersecurity, CCNA, Saudi Arabia" width="100%">
 </picture>
 
 <img src="about.svg" alt="Console: show version and show interfaces status, listing networking and security skills as connected ports, including SIEM with Wazuh and Splunk" width="100%">
@@ -45,7 +45,7 @@ login block-for 120 attempts 3 within 60
 logging trap informational
 logging host wazuh.swagger.lab
 !
-snmp-server location Dammam, Saudi Arabia
+snmp-server location Saudi Arabia
 snmp-server contact linkedin.com/in/rayanaldossary
 !
 vlan 10
