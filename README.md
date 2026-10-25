@@ -1,16 +1,63 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hero.svg">
+  <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
+  <img src="hero.svg" alt="Rayan Aldossary, Network and Infrastructure, CCNA, Dammam, Saudi Arabia" width="100%">
+</picture>
 
-<!--
-**Rayan-Aldossary/Rayan-Aldossary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="about.svg" alt="Console: show version and show interfaces status, listing focus areas and skills as connected ports" width="100%">
 
-Here are some ideas to get you started:
+### Lab in numbers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="lab-stats.svg" alt="22U rack, 6 virtual machines, 4 VLANs, 20G LACP uplink, 384 GB hypervisor RAM, 7 NAS drive bays" width="100%">
+
+<a href="https://github.com/Rayan-Aldossary/Home-DataCenter">
+  <img src="project-home-datacenter.svg" alt="Home-DataCenter: view repository" width="100%">
+</a>
+
+### Tools I work with
+
+<p>
+  <img alt="Cisco IOS XE" src="https://img.shields.io/badge/Cisco%20IOS%20XE-111317?style=for-the-badge&logo=cisco&logoColor=1BA0D7">
+  <img alt="OPNsense" src="https://img.shields.io/badge/OPNsense-111317?style=for-the-badge&logo=opnsense&logoColor=D94F00">
+  <img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox%20VE-111317?style=for-the-badge&logo=proxmox&logoColor=E57000">
+  <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-111317?style=for-the-badge&logo=windows&logoColor=0078D4">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111317?style=for-the-badge&logo=docker&logoColor=2496ED">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-111317?style=for-the-badge&logo=ubuntu&logoColor=E95420">
+  <img alt="UniFi" src="https://img.shields.io/badge/UniFi-111317?style=for-the-badge&logo=ubiquiti&logoColor=006FFF">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111317?style=for-the-badge&logo=python&logoColor=FFD43B">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-111317?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+</p>
+
+<details>
+<summary><code>RAYAN-01# show running-config</code></summary>
+
+```text
+hostname Rayan-Aldossary
+!
+snmp-server location Dammam, Saudi Arabia
+snmp-server contact linkedin.com/in/rayanaldossary
+!
+vlan 10
+ name networking
+vlan 20
+ name infrastructure
+vlan 30
+ name cybersecurity
+!
+interface Port-channel1
+ description Home-DataCenter, 2x10G LACP
+!
+banner motd ^
+ Built, broken, fixed, documented.
+^
+!
+end
+```
+
+</details>
+
+<br>
+
+<p align="center">
+  <a href="https://sa.linkedin.com/in/rayanaldossary"><img src="connect.svg" alt="Connect on LinkedIn" height="56"></a>
+</p>
