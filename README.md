@@ -30,7 +30,7 @@
   <img alt="Splunk" src="https://img.shields.io/badge/Splunk-111317?style=for-the-badge&logo=splunk&logoColor=65A637">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111317?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-111317?style=for-the-badge&logo=ansible&logoColor=EE0000">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-111317?style=for-the-badge&logo=ubuntu&logoColor=E95420">
+  <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-111317?style=for-the-badge&logo=ubuntu&logoColor=E95420">
   <img alt="UniFi" src="https://img.shields.io/badge/UniFi-111317?style=for-the-badge&logo=ubiquiti&logoColor=006FFF">
   <img alt="Python" src="https://img.shields.io/badge/Python-111317?style=for-the-badge&logo=python&logoColor=FFD43B">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-111317?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0YyQzgxMSI%2BPHJlY3QgeD0iNCIgeT0iMTIiIHdpZHRoPSI0IiBoZWlnaHQ9IjkiIHJ4PSIxIi8%2BPHJlY3QgeD0iMTAiIHk9IjciIHdpZHRoPSI0IiBoZWlnaHQ9IjE0IiByeD0iMSIvPjxyZWN0IHg9IjE2IiB5PSIzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxOCIgcng9IjEiLz48L3N2Zz4%3D">
