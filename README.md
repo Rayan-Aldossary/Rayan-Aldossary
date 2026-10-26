@@ -8,7 +8,7 @@
 
 ### Labs in numbers
 
-<img src="labs.svg" alt="Across my labs: 5 network devices, 4 VLANs, 6 virtual machines, 4 security tools, 5 log sources monitored, 1 project published" width="100%">
+<img src="labs.svg" alt="Across my labs: 1 project published, 5 network devices, 4 VLANs, 6 virtual machines, 4 security tools, 5 log sources monitored" width="100%">
 
 ### Detection pipeline
 
