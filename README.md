@@ -6,9 +6,9 @@
 
 <img src="about.svg" alt="Console: show version and show interfaces status, listing networking and security skills as connected ports, including SIEM with Wazuh and Splunk" width="100%">
 
-### Lab in numbers
+### At a glance
 
-<img src="lab-stats.svg" alt="22U rack, 6 virtual machines, 4 VLANs, 20G LACP uplink, 384 GB hypervisor RAM, 7 NAS drive bays" width="100%">
+<img src="at-a-glance.svg" alt="3+ years in enterprise IT, 6 lab virtual machines, 4 segmented VLANs, 5 log sources in the SIEM, 2 SIEM platforms, 0 inbound ports exposed" width="100%">
 
 ### Detection pipeline
 
