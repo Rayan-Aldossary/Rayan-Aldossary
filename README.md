@@ -12,11 +12,7 @@
 
 ### Detection pipeline
 
-<img src="detection-pipeline.svg" alt="Cisco, OPNsense and Suricata, Windows Server, and Proxmox and Linux send logs to Wazuh, which decodes, correlates and responds, then forwards to Splunk. An attack flagged by Suricata becomes a level 10 alert and the source is blocked." width="100%">
-
-### What the SIEM catches
-
-<img src="alert-feed.svg" alt="Example Wazuh alerts by severity: Nmap scan dropped, brute force blocked, port-security violation shutdown, Domain Admins change for review, suspicious outbound beacon isolated" width="100%">
+<img src="detection-pipeline.svg" alt="The Cisco network, OPNsense and Suricata, the Windows domain servers, the Proxmox and Docker hosts, and UniFi send logs to Wazuh, which decodes, correlates and responds, then forwards to Splunk. A brute force attempt on SWAGGER-DC-01 becomes a level 10 alert and the source is blocked." width="100%">
 
 <a href="https://github.com/Rayan-Aldossary/Home-DataCenter">
   <img src="project-home-datacenter.svg" alt="Home-DataCenter: view repository" width="100%">
