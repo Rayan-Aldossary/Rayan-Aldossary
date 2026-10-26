@@ -6,9 +6,9 @@
 
 <img src="about.svg" alt="Console: show version and show interfaces status, listing networking and security skills as connected ports, including SIEM with Wazuh and Splunk" width="100%">
 
-### At a glance
+### Labs in numbers
 
-<img src="at-a-glance.svg" alt="3+ years in enterprise IT, 6 lab virtual machines, 4 segmented VLANs, 5 log sources in the SIEM, 2 SIEM platforms, 0 inbound ports exposed" width="100%">
+<img src="labs.svg" alt="Across my labs: 5 network devices, 6 virtual machines, 4 VLANs, 5 endpoints, 4 security tools, 5 log sources monitored" width="100%">
 
 ### Detection pipeline
 
