@@ -6,13 +6,13 @@
 
 <img src="about.svg" alt="Console: show version and show interfaces status, listing networking and security skills as connected ports, including SIEM with Wazuh and Splunk" width="100%">
 
-### Labs in numbers
+### Experience
 
-<img src="labs.svg" alt="Across my labs: 1 project published, 5 network devices, 4 VLANs, 6 virtual machines, 4 security tools, 5 log sources monitored" width="100%">
-
-### Detection pipeline
-
-<img src="detection-pipeline.svg" alt="The Cisco network, OPNsense and Suricata, the Windows domain servers, the Proxmox and Docker hosts, and UniFi send logs to Wazuh, which decodes, correlates and responds, then forwards to Splunk. A brute force attempt on SWAGGER-DC-01 becomes a level 10 alert and the source is blocked." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="experience.svg">
+  <source media="(prefers-color-scheme: light)" srcset="experience-light.svg">
+  <img src="experience.svg" alt="Experience. Now: IT Admin at GAC Energy. Before: nearly three years in enterprise IT supporting Saudi Aramco operations, starting in IT Operations and growing into Training &amp; Development and system development, with Top Performer awards in IT Operations and in Training &amp; Development." width="100%">
+</picture>
 
 <a href="https://github.com/Rayan-Aldossary/Home-DataCenter">
   <img src="project-home-datacenter.svg" alt="Home-DataCenter: view repository" width="100%">
