@@ -11,8 +11,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="experience.svg">
   <source media="(prefers-color-scheme: light)" srcset="experience-light.svg">
-  <img src="experience.svg" alt="Experience. Now: IT Admin at GAC Energy. Before: nearly three years in enterprise IT supporting Saudi Aramco operations, starting in IT Operations and growing into Training &amp; Development and system development, with Top Performer awards in IT Operations and in Training &amp; Development." width="100%">
+  <img src="experience.svg" alt="Experience. Information Technology Administrator at GAC Group, August 2026 to present: infrastructure, hardware, software and network support; Active Directory and Microsoft 365 administration; user access and account management; endpoint deployment; cybersecurity and compliance support; IT asset lifecycle management. TP (Teleperformance), supporting Saudi Aramco operations, June 2023 to August 2026, with Top Performer awards in IT Operations and in Training and Development. Training and Development Specialist, February 2024 to August 2026: Power BI dashboards; a knowledge base system, an IT Help Desk website and a Training and Development system; requirements gathering and process improvements; knowledge articles, training materials and onboarding. IT and IO&#x27;s Support Analyst, June 2023 to February 2024: enterprise support through BMC Remedy; user access and account administration; workstation imaging, domain join and recovery; incidents and service requests. Network Technician Intern at King Fahad Specialist Hospital, June to September 2022: Cisco switch maintenance and troubleshooting, telecommunications components, and help desk support for more than 1,000 employees." width="100%">
 </picture>
+
+### Work projects
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="work.svg">
+  <source media="(prefers-color-scheme: light)" srcset="work-light.svg">
+  <img src="work.svg" alt="Work projects. Time &amp; Attendance Analytics Dashboard (GAC Group · Sep – Oct 2026): Turns raw monthly attendance records into executive and employee-level dashboards: absence, leave, overtime, punctuality and schedule compliance. Built with Power BI, Power Query, DAX. Knowledge Base Management System (TP · Jan 2025 – Aug 2026): Full-stack platform for articles, technical guides and FAQs, with tiered review workflows. Used by IT teams for onboarding and self-service. Built with Node.js, Express, SQL Server, JavaScript. Power BI Dashboards for Aramco and TP (TP · Jun 2024 – May 2025): KPI, attendance, survey and training dashboards on SQL Server, used daily by Aramco leadership and TP managers. Recognized by Aramco IT, May 2025, for dashboard excellence. Built with Power BI, DAX, SQL Server. IT Help Desk Website for Aramco (TP · Jan – Sep 2023): Co-developed a responsive internal portal for service listings, ticket follow-up, FAQs and support contacts, used across departments. Recognized by the Aramco IT Director, Sep 2023, for design and usability. Built with HTML, CSS, JavaScript." width="100%">
+</picture>
+
+<br>
 
 <a href="https://github.com/Rayan-Aldossary/Home-DataCenter">
   <img src="project-home-datacenter.svg" alt="Home-DataCenter: view repository" width="100%">
